@@ -8,6 +8,7 @@ import (
 	"github.com/hajimehoshi/ebiten/v2"
 )
 
+// Q 变形 W 左 E 右 R 加速下 仅针对 Tetris [Fran Dachille, 1991].ch8
 // https://github.com/dmatlack/chip8/tree/master/roms/games game roms
 // https://austinmorlan.com/posts/chip8_emulator/
 
